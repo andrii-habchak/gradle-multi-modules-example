@@ -1,2 +1,2 @@
-Example of gradle multi modules project configuration
+Example of multi modules project configuration in Gradle
 --------
