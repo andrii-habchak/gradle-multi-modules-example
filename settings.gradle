@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-multi-modules-example'
+include 'rest'
+include 'core:dao'
+include 'core:service'
+
